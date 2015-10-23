@@ -4,7 +4,7 @@
 
 ## Changelog
 
-- 2015-10-23 (2hr) ported to C (with some C++ feature) for 2015-1st semester President University students 2015, added score
+- 2015-10-23 (2hr) ported to C (with some C++ feature) for 2015-1st semester President University students, added score
 - 2014-02-27 (8hr) first release C++ SDL demo for 2013-2nd semester Surya University students
 
 ## Requirement
